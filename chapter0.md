@@ -3,7 +3,6 @@
 2019年9月27日
 
 Rust现在无需额外配置即可支持RISC-V！这使得我们无需工具链即可轻松构建。 但我们仍然需要地址为ch0.old.html的旧教程所提到的QEMU模拟器。
-Rust will need a few things, which you can add using the `rustup` command. If you don't have rustup, you can download it at https://www.rust-lang.org/tools/install.
 
 Rust将需要安装一些东西，您可以使用 `rustup` 命令添加这些。如果没有rustup，可以从 https://www.rust-lang.org/tools/install 下载。
 
